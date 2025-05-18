@@ -1,10 +1,10 @@
-👋 Hi, I’m @HoussamBoukdir
-💻 I’m a software developer in training
-🔍 I’m interested in web development, automation, and building real-world projects
-📘 I’m currently learning JavaScript, React, and backend frameworks
-🤝 I’m open to collaborating on open-source tools and beginner-friendly projects
-📫 You can reach me at houssam.boukdir166@gmail.com
-⚡ I like solving small problems with code and making tools that save time
+- 👋 Hi, I’m @HoussamBoukdir
+- 💻 I’m a software developer in training
+- 🔍 I’m interested in web development, automation, and building real-world projects
+- 📘 I’m currently learning JavaScript, React, and backend frameworks
+- 🤝 I’m open to collaborating on open-source tools and beginner-friendly projects
+- 📫 You can reach me at houssam.boukdir166@gmail.com
+- ⚡ I like solving small problems with code and making tools that save time
 
 
 
