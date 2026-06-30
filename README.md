@@ -1,14 +1,51 @@
-- 👋  Hi, I’m @HoussamBoukdir
-- 💻  I’m a software developer in training
-- 🔍  I’m interested in web development, automation, and building real-world projects
-- 📘  I’m currently learning JavaScript, React, and backend frameworks
-- 🤝  I’m open to collaborating on open-source tools and beginner-friendly projects
-- 📫  You can reach me at houssam.boukdir166@gmail.com
-- ⚡  I like solving small problems with code and making tools that save time
+<h1 align="center">Hi, I'm Houssam Boukdir</h1>
 
+<p align="center">
+Full Stack Developer passionate about building modern web applications
+</p>
 
+---
 
-<!---
-HoussamBoukdir/HoussamBoukdir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- Building scalable web applications  
+- Focused on Frontend and Backend Development  
+- Passionate about clean UI and user experience  
+- Always learning new technologies and improving every day  
+
+---
+
+## Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- PHP  
+- Laravel  
+- MySQL  
+- Tailwind CSS  
+- Git  
+- GitHub  
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/houssam-boukdir-082922343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Houssam_Boukdir-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:boukdir.houssam166@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+Code • Learn • Build • Improve
+</p>
